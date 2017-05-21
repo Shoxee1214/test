@@ -1,4 +1,4 @@
-SoundCloud Data Challenge
+Data Challenge
 =========================
 
 Given a set **S** of pairs of usernames corresponding to mutual friendships in
